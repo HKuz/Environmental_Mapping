@@ -1,2 +1,3 @@
-# Environmental_Mapping
-Test repo for geemap creations
+# Environmental Mapping
+
+A test repo for geemap creations.
