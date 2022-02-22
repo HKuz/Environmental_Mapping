@@ -1,3 +1,3 @@
 # Environmental Mapping
 
-A test repo for geemap creations.
+Repository to explore NH public land parcels/tracts by municipality and county.
